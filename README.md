@@ -1,4 +1,3 @@
-# APIJR_NETWORK
 A description of this package.
 # APIJR
  Simple swift package for API call manager.
